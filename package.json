@@ -1,0 +1,22 @@
+{
+  "name": "teamoloko1",
+  "version": "1.0.0",
+  "description": "basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HASSAN1965/teamoloko1.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HASSAN1965/teamoloko1/issues"
+  },
+  "homepage": "https://github.com/HASSAN1965/teamoloko1#readme"
+}
